@@ -56,7 +56,7 @@ python manage.py test --k
 
 ## Tutorial
 
-This project includes a YouTube tutorial to guide you through the process of writing Django test cases. You can find the tutorial at [YouTube Tutorial Link](https://www.youtube.com/your-tutorial-link). The tutorial covers the following topics:
+This project includes a YouTube tutorial to guide you through the process of writing Django test cases. You can find the tutorial at [YouTube Tutorial Link]([https://www.youtube.com/your-tutorial-link](https://www.youtube.com/watch?v=LBeQYwi78EA)). The tutorial covers the following topics:
 
 - Introduction to Django's testing framework
 - Writing unit tests for models, views.
